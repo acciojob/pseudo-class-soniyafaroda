@@ -8,7 +8,7 @@
 
 /* Insert text before the container */
 #container::before {
-  content: "Before Element ";
+  content: "Before Element";
   color: #f00;
   font-size: 20px;
   margin-bottom: 10px;
@@ -16,7 +16,7 @@
 
 /* Insert text after the container */
 #container::after {
-  content: "After Element ";
+  content: "After Element";
   color: #f00;
   font-size: 20px;
   margin-top: 10px;
